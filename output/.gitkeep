@@ -1,0 +1,2 @@
+# Output directory – generated recommendation files land here.
+# JSON / Markdown files are in .gitignore; only this placeholder is committed.
